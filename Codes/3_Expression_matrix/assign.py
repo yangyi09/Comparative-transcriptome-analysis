@@ -1,4 +1,5 @@
 #!/usr/bin/python
+##script for filtering venom associated OGs/GOs
 
 import pickle
 import pandas as pd
